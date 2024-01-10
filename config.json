@@ -1,5 +1,5 @@
 {
-    "ownerNumber": ["0822319737@s.whatsapp.net"],
+    "ownerNumber": ["0822319737@s.whatsapp.net",],
     "ownerName": "Cee_tx3",
     "instagram" : "https://instagram.com/nicetry.zaa._",
     "botName": "Big_Cee👉👌 ",
@@ -12,7 +12,7 @@
     "auto_leaveMsg": true,    
     "autobio": true,
     "anticall": true,
-    "autorespond": false,
+    "autorespond": true,
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
